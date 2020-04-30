@@ -19,7 +19,7 @@ while i<6:
 print("\n \nFIBONACCI NUMBER CHECK")
 x=int(input("Enter a number: "))
 if(fibonacci(x) == True):
-    print("It is a Finacci number.")
+    print("It is a Fibonacci number.")
 else:
-    print("It is not a Finacci number.")
+    print("It is not a Fibonacci number.")
 
